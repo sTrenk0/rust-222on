@@ -1,6 +1,8 @@
 [package]
-name = "dffdfddfd"
+name = "rust-222on"
 version = "0.1.0"
 edition = "2021"
 
-[dependencies]
+[[bin]]
+name = "rust-222on"
+path = "src/rustbypractis/main.rs"
